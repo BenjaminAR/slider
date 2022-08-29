@@ -1,0 +1,27 @@
+.testimonial-img{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.slider-dos{
+    width: 50%;
+    height: 80vh;
+    padding: 0 rem;
+    background-color: blue;
+}
+
+.testimonial-img img{
+    border-radius: 50%;
+    width: 15rem;
+    margin-bottom: 2rem;
+}
+.client-name{
+    text-align: center;
+}
+.testimonial-text{
+    margin: 0 auto;
+    width: 60%;
+    text-align: center;
+    background-color: red;
+}
